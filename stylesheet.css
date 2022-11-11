@@ -1,0 +1,101 @@
+h1{
+	text-align: center;
+	color: darkorange;
+	border: 8px solid gray; 
+}
+h2{
+	text-align: center;
+	color: white; 
+}
+h3{
+	text-align: center;
+	color: darkorange;
+	font-size:  80px;
+}
+h4{
+	text-align: center;
+	color: black;
+	border: 8px solid gray; 
+	font-size: 40px;
+}
+h5{
+	text-align: center;
+	color: white;
+	border: 8px solid gray; 
+	font-size: 30px;
+}
+h6{
+	text-align: center;
+	color: white;
+	border: 8px solid gray; 
+	font-size: 30px;
+}
+body {
+	background-image: url(https://media.tenor.com/KWPnnnMLO6MAAAAC/suicideboys.gif);
+	/*background-repeat: no-repeat;
+	background-size: 100% 50%;*/
+}
+img{
+	height: 40%;
+	width:  40%;
+
+	margin-left: 380px;
+	margin-right: 380px;
+}
+table, th, td{
+	border: 3px solid;
+	border-collapse: collapse; 
+	border-color: whitesmoke ;
+}
+th{
+	text-align: center;
+	color: orange;
+	font-size: 100%;
+}
+td{
+	text-align: center;
+	color: orange;
+}
+table{
+	margin-left: auto;
+	margin-right: auto;
+}
+#body1{
+	background-image: url(https://i.pinimg.com/originals/1c/cb/24/1ccb2489899ae4255043dc10557fc7da.jpg);
+}
+#body2{
+	background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20200821/pngtree-simple-dark-red-solid-color-wallpaper-image_396557.jpg);            
+}
+#body3{
+	background-image: url(https://images.wallpaperscraft.com/image/single/point_background_yellow_surface_line_69664_225x300.jpg);
+}
+#body4{
+	background-image: url(https://i.pinimg.com/originals/1c/cb/24/1ccb2489899ae4255043dc10557fc7da.jpg);
+}
+#body5{
+	background-image: url(https://scontent.fmnl9-1.fna.fbcdn.net/v/t39.30808-6/307572536_417949993813983_850562371674059922_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=e3f864&_nc_ohc=2jMXcSjBT8IAX_5L5SR&_nc_ht=scontent.fmnl9-1.fna&oh=00_AfBDo7J5nQ2mn-w4WV1hTVZzzzZ_56mtJ2JmvHRtQYE9xg&oe=636E8102);
+}
+.topnav {
+  overflow: hidden;
+  background-color: black;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: Georgia;
+}
+
+.topnav a:hover {
+  background-color: darkorange;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #ddd;
+  color: black;
+}
